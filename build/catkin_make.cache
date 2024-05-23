@@ -1,0 +1,2 @@
+moveit_robot_arm_sim:moveit_tutorials:panda_moveit_config:robot_arm_urdf
+-DCATKIN_DEVEL_PREFIX=/home/vann/moveit_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vann/moveit_ws/install -G Unix Makefiles

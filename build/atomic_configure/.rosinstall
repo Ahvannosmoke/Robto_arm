@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vann/moveit_ws/devel/setup.sh
